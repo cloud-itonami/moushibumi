@@ -127,7 +127,7 @@
     }
   },
   "roadmap": [
-    {"phase": "R0", "date": "2026-05-31", "scope": "Scaffold only. 7 cells path-reserved. 6 Lexicon skeletons. Target-registry seed (5 entries, all unverified-seed). manifest + README + CLAUDE.md. NO submission, NO live guide.", "murakumoFleet": "No deployment", "gate": "ADR-2605312400 (PROPOSED)"},
+    {"phase": "R0", "date": "2026-05-31", "scope": "Scaffold only. 7 cells path-reserved. 6 Lexicon skeletons. Target-registry seed (5 entries, all unverified-seed). manifest + README + AGENTS.md. NO submission, NO live guide.", "murakumoFleet": "No deployment", "gate": "ADR-2605312400 (PROPOSED)"},
     {"phase": "R1", "date": "post-Bootstrap-Council + ≥1 Council Lv6+ ratify", "scope": "target_registry + voter_info + opportunity_match + intake + compose build artifacts; 案内 + 起草補助 only, no submission.", "murakumoFleet": "reuben", "gate": "Council Lv6+ ≥3"},
     {"phase": "R2", "date": "post-R1 + 30-day public comment", "scope": "member SELF-SUBMITS petitions/comments; status_track live. No 代行.", "murakumoFleet": "reuben + gad", "gate": "Council Lv6+ ≥4 + 30-day public comment"},
     {"phase": "R3", "date": "post-R2 + Council Lv7+ unanimity + 行政書士法 clearance", "scope": "moushibumi_submit active-outbound 代行 (本人同意ベース) for the member's own voice.", "murakumoFleet": "Full 10-node fleet", "gate": "Council Lv7+ unanimity + 行政書士法 clearance"}
